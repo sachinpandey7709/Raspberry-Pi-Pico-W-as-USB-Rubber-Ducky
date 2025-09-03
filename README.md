@@ -24,4 +24,4 @@ The author is **not responsible** for any misuse. Please use it **only on system
 1. **Clone this repository**
    ```bash
    git clone https://github.com/sachinpandey7709/Raspberry-Pi-Pico-W-as-USB-Rubber-Ducky-Educational-Payloads-.git
-   cd Raspberry-Pi-Pico-W-as-USB-Rubber-Ducky-Educational-Payloads
+   cd Raspberry-Pi-Pico-W-as-USB-Rubber-Ducky-Educational-Payloads-
